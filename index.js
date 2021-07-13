@@ -6,7 +6,7 @@ const Discord = require('discord.js'),
     config = require('./config.json'),
     fs = require('fs')
 //  Connexion au bot via son Token
-client.login(process.env.TOKEN)
+client.login('ODY0MDM5MTI2MDA1NTc5ODA3.YOvpJA.sRb0nkwvX9CAZDIXd0jnHD43G4w')
 client.commands = new Discord.Collection()
 
 // Récupération de toutes les commandes du dossier ./commands
